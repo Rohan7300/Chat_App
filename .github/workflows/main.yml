@@ -12,6 +12,6 @@ jobs:
 
     - name: Dockerfile
       run: |
-        Docker build -t Chat_APP .
+        docker build -t Chat_APP .
       
     
